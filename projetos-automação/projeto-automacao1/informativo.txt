@@ -1,0 +1,3 @@
+O projeto consiste em criar um doc. python que reconhece os 
+arquivos em pdf dentro da pasta arquivos e quando executado 
+junta os arquivos em um único pdf.
